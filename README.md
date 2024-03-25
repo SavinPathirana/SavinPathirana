@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Savin Pathirana</h1> <br>
 <h3 align="center">A passionate Programmer from Sri lanka</h3>
-<p align="center">I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted; witnessing the expansion of computer science allowed me to consider studying software engineering from an early age, and my enthusiasm has perpetually developed since this time. And also I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️</p> <br>
+<p align="center">🌟 Immersed in the world of computer science from a young age, my passion for coding knows no bounds. With each line I write, I uncover new dimensions of creativity and problem-solving. From crafting elegant algorithms to building robust software solutions, I find joy in the endless possibilities that technology offers. Coding isn't just a skill; it's a lifelong journey of discovery and mastery. 💻💡 🛠️</p> <br>
 <p align="center"> 
 
 </p>
@@ -11,7 +11,6 @@
 <div align="center">
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
@@ -35,9 +34,9 @@
 <!---------------------------------------------------------------------------------------------------- Bio Section ---------------------------------------------------------------------------------------------------------------------->
 
 
-- 🔭 I’m currently working on **................**
+- 🔭 I’m currently working on some**ML Projects.**
 
-- 🌱 I’m currently learning **.............**
+- 🌱 I’m currently learning about **The Neural Network.**
 
 - 👨‍💻 All of my projects are available at .....................
 
@@ -45,9 +44,7 @@
 
 - 📫 How to reach me **savinpathirana@gmail.com**
 
-- 📄 Know about my experiences ......................
-
-- ⚡ Fun fact **I think I'm funny**
+- ⚡ Fun fact **Bananas🍌 are berries, but strawberries🍓 aren't! **
 
 
 <!---------------------------------------------------------------------------------------------------- Social ---------------------------------------------------------------------------------------------------------------------->
