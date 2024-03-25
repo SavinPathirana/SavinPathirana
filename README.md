@@ -34,13 +34,13 @@
 <!---------------------------------------------------------------------------------------------------- Bio Section ---------------------------------------------------------------------------------------------------------------------->
 
 
-- 🔭 I’m currently working on some**ML Projects.**
+- 🔭 I’m currently working on a **Motion Detection Alarm System**.
 
-- 🌱 I’m currently learning about **The Neural Network.**
+- 🌱 I’m currently learning about **The Neural Network**.
 
 - 👨‍💻 All of my projects are available at .....................
 
-- 💬 Ask me about **Java, Python, PHP and NodeJS**
+- 💬 Ask me about **Java, Python, PHP and Node.js**
 
 - 📫 How to reach me **savinpathirana@gmail.com**
 
