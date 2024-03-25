@@ -44,7 +44,7 @@
 
 - 📫 How to reach me **savinpathirana@gmail.com**
 
-- ⚡ Fun fact **Bananas🍌 are berries, but strawberries🍓 aren't!**
+- ⚡ Fun fact: **Bananas🍌 are berries, but strawberries🍓 aren't!**
 
 
 <!---------------------------------------------------------------------------------------------------- Social ---------------------------------------------------------------------------------------------------------------------->
