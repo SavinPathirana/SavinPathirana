@@ -119,11 +119,11 @@
 <h3 align="left">GitHub Stats:</h3>
 <div align="center">
  
-![StealthBlack99's Stats](https://github-readme-stats.vercel.app/api?username=StealthBlack99&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
+![StealthBlack99's Stats](https://github-readme-stats.vercel.app/api?username=StealthBlack99&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
 
-![StealthBlack99's Streak](https://github-readme-streak-stats.herokuapp.com/?user=StealthBlack99&theme=vue-dark&hide_border=false)
+![StealthBlack99's Streak](https://github-readme-streak-stats.herokuapp.com/?user=StealthBlack99&theme=midnight-purple&hide_border=true)
 
-![StealthBlack99's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=StealthBlack99&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
+![StealthBlack99's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=StealthBlack99&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
 
 </div>
 
